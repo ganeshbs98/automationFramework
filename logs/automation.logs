@@ -1,0 +1,186 @@
+[35;;;;;;;;;;;;;1m[2025-08-10 17:09:13,631][main][INFO ][LoginTest-L1] :: loading and setting the remote env json
+[m[35;;;;;;;;;;;;;1m[2025-08-10 17:09:13,654][main][INFO ][LoginTest-L1] :: loading and setting the Test env json
+[m[35;;;;;;;;;;;;;1m[2025-08-10 17:09:13,668][main][INFO ][LoginTest-L1] :: creating the Browser Instance
+[m[35;;;;;;;;;;;;;1m[2025-08-10 17:09:24,768][main][INFO ][LoginTest-L1] :: creating the local Browser Instance
+[m[35;;;;;;;;;;;;;1m[2025-08-10 17:10:07,359][main][INFO ][LoginTest-L1] :: creating the local Browser Instance
+[m[35;1m[2025-08-10 17:12:14,442][main][INFO ][LoginTest:L1] :: loading and setting the remote env json
+[m[35;1m[2025-08-10 17:12:14,460][main][INFO ][LoginTest:L1] :: loading and setting the Test env json
+[m[35;1m[2025-08-10 17:12:14,472][main][INFO ][LoginTest:L1] :: creating the Browser Instance
+[m[35;1m[2025-08-10 17:12:34,045][main][INFO ][LoginTest:L1] :: creating the local Browser Instance
+[m[m[2025-08-10 17:13:09,238][main][INFO ][LoginTest:L] :: loading and setting the remote env json
+[m[m[2025-08-10 17:13:09,256][main][INFO ][LoginTest:L] :: loading and setting the Test env json
+[m[m[2025-08-10 17:13:09,269][main][INFO ][LoginTest:L] :: creating the Browser Instance
+[m[m[2025-08-10 17:14:28,780][main][INFO ][LoginTest:L] :: creating the local Browser Instance
+[m[96m[2025-08-10 17:14:45,542][main][INFO ][LoginTest:L] :: loading and setting the remote env json
+[m[96m[2025-08-10 17:14:45,566][main][INFO ][LoginTest:L] :: loading and setting the Test env json
+[m[96m[2025-08-10 17:14:45,578][main][INFO ][LoginTest:L] :: creating the Browser Instance
+[m[96m[2025-08-10 17:15:09,942][main][INFO ][LoginTest:L] :: creating the local Browser Instance
+[m[96m[2025-08-10 17:15:17,909][main][INFO ][LoginTest:60] :: loading and setting the remote env json
+[m[96m[2025-08-10 17:15:17,929][main][INFO ][LoginTest:62] :: loading and setting the Test env json
+[m[96m[2025-08-10 17:15:17,941][main][INFO ][LoginTest:89] :: creating the Browser Instance
+[m[96m[2025-08-10 17:15:22,155][main][INFO ][LoginTest:61] :: creating the local Browser Instance
+[m[96m[2025-08-10 17:15:31,331][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-10 17:15:39,756][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-10 17:15:39,765][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:15:41,176][main][INFO ][SeleniumWrapper:38] :: Entering the text :tijigov754@nicext.com
+[m[96m[2025-08-10 17:15:41,328][main][INFO ][LoginPage:21] :: Entering the Password field
+[m[96m[2025-08-10 17:15:41,328][main][INFO ][SeleniumWrapper:38] :: Entering the text :Pass123
+[m[96m[2025-08-10 17:15:41,382][main][INFO ][LoginPage:23] :: Entering the Submit button
+[m[96m[2025-08-10 17:15:41,382][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:15:41,452][main][INFO ][SeleniumWrapper:50] :: verifying the element is Displayed :
+[m[96m[2025-08-10 17:15:42,435][main][INFO ][LoginTest:282] :: closing the browser session
+[m[96m[2025-08-10 17:16:14,164][main][INFO ][LoginTest:60] :: loading and setting the remote env json
+[m[96m[2025-08-10 17:16:14,184][main][INFO ][LoginTest:62] :: loading and setting the Test env json
+[m[96m[2025-08-10 17:16:14,195][main][INFO ][LoginTest:89] :: creating the Browser Instance
+[m[96m[2025-08-10 17:16:14,416][main][INFO ][LoginTest:61] :: creating the local Browser Instance
+[m[96m[2025-08-10 17:16:23,273][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-10 17:16:23,277][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-10 17:16:23,278][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:16:24,648][main][INFO ][SeleniumWrapper:38] :: Entering the text :tijigov754@nicext.com
+[m[96m[2025-08-10 17:16:24,812][main][INFO ][LoginPage:21] :: Entering the Password field
+[m[96m[2025-08-10 17:16:24,812][main][INFO ][SeleniumWrapper:38] :: Entering the text :Pass123
+[m[96m[2025-08-10 17:16:24,850][main][INFO ][LoginPage:23] :: Entering the Submit button
+[m[96m[2025-08-10 17:16:24,850][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:16:24,962][main][INFO ][SeleniumWrapper:50] :: verifying the element is Displayed :
+[m[96m[2025-08-10 17:16:25,943][main][INFO ][LoginTest:282] :: closing the browser session
+[m[92m[2025-08-10 17:17:21,573][main][INFO ][LoginTest:60] :: loading and setting the remote env json
+[m[92m[2025-08-10 17:17:21,590][main][INFO ][LoginTest:62] :: loading and setting the Test env json
+[m[92m[2025-08-10 17:17:21,602][main][INFO ][LoginTest:89] :: creating the Browser Instance
+[m[92m[2025-08-10 17:17:21,827][main][INFO ][LoginTest:61] :: creating the local Browser Instance
+[m[92m[2025-08-10 17:17:30,756][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[92m[2025-08-10 17:17:30,766][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[92m[2025-08-10 17:17:30,766][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[92m[2025-08-10 17:17:31,912][main][INFO ][SeleniumWrapper:38] :: Entering the text :tijigov754@nicext.com
+[m[92m[2025-08-10 17:17:32,078][main][INFO ][LoginPage:21] :: Entering the Password field
+[m[92m[2025-08-10 17:17:32,079][main][INFO ][SeleniumWrapper:38] :: Entering the text :Pass123
+[m[92m[2025-08-10 17:17:32,125][main][INFO ][LoginPage:23] :: Entering the Submit button
+[m[92m[2025-08-10 17:17:32,125][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[92m[2025-08-10 17:17:32,184][main][INFO ][SeleniumWrapper:50] :: verifying the element is Displayed :
+[m[92m[2025-08-10 17:17:33,216][main][INFO ][LoginTest:282] :: closing the browser session
+[m[m[2025-08-10 17:17:43,868][main][INFO ][LoginTest:60] :: loading and setting the remote env json
+[m[m[2025-08-10 17:17:43,887][main][INFO ][LoginTest:62] :: loading and setting the Test env json
+[m[m[2025-08-10 17:17:43,898][main][INFO ][LoginTest:89] :: creating the Browser Instance
+[m[m[2025-08-10 17:17:44,143][main][INFO ][LoginTest:61] :: creating the local Browser Instance
+[m[m[2025-08-10 17:17:56,183][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[m[2025-08-10 17:17:56,192][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[m[2025-08-10 17:17:56,192][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[m[2025-08-10 17:17:57,283][main][INFO ][SeleniumWrapper:38] :: Entering the text :tijigov754@nicext.com
+[m[m[2025-08-10 17:17:57,804][main][INFO ][LoginPage:21] :: Entering the Password field
+[m[m[2025-08-10 17:17:57,804][main][INFO ][SeleniumWrapper:38] :: Entering the text :Pass123
+[m[m[2025-08-10 17:17:57,931][main][INFO ][LoginPage:23] :: Entering the Submit button
+[m[m[2025-08-10 17:17:57,931][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[m[2025-08-10 17:17:58,072][main][INFO ][SeleniumWrapper:50] :: verifying the element is Displayed :
+[m[m[2025-08-10 17:17:59,015][main][INFO ][LoginTest:282] :: closing the browser session
+[m[96m[2025-08-10 17:18:20,244][main][INFO ][LoginTest:60] :: loading and setting the remote env json
+[m[96m[2025-08-10 17:18:20,262][main][INFO ][LoginTest:62] :: loading and setting the Test env json
+[m[96m[2025-08-10 17:18:20,276][main][INFO ][LoginTest:89] :: creating the Browser Instance
+[m[96m[2025-08-10 17:18:20,499][main][INFO ][LoginTest:61] :: creating the local Browser Instance
+[m[96m[2025-08-10 17:18:24,263][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-10 17:18:24,267][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-10 17:18:24,268][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:18:28,967][main][INFO ][SeleniumWrapper:38] :: Entering the text :tijigov754@nicext.com
+[m[96m[2025-08-10 17:18:29,219][main][INFO ][LoginPage:21] :: Entering the Password field
+[m[96m[2025-08-10 17:18:29,219][main][INFO ][SeleniumWrapper:38] :: Entering the text :Pass123
+[m[96m[2025-08-10 17:18:29,298][main][INFO ][LoginPage:23] :: Entering the Submit button
+[m[96m[2025-08-10 17:18:29,298][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:18:29,354][main][INFO ][SeleniumWrapper:50] :: verifying the element is Displayed :
+[m[96m[2025-08-10 17:18:30,503][main][INFO ][LoginTest:282] :: closing the browser session
+[m[96m[2025-08-10 17:25:12,106][main][INFO ][LoginTest:60] :: loading and setting the remote env json
+[m[96m[2025-08-10 17:25:12,125][main][INFO ][LoginTest:62] :: loading and setting the Test env json
+[m[96m[2025-08-10 17:25:12,136][main][INFO ][LoginTest:89] :: creating the Browser Instance
+[m[96m[2025-08-10 17:25:12,352][main][INFO ][LoginTest:61] :: creating the local Browser Instance
+[m[96m[2025-08-10 17:25:21,362][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-10 17:25:21,374][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-10 17:25:21,375][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:25:22,777][main][INFO ][SeleniumWrapper:38] :: Entering the text :tijigov754@nicex.com
+[m[96m[2025-08-10 17:25:23,048][main][INFO ][LoginPage:21] :: Entering the Password field
+[m[96m[2025-08-10 17:25:23,048][main][INFO ][SeleniumWrapper:38] :: Entering the text :Pass123
+[m[96m[2025-08-10 17:25:23,143][main][INFO ][LoginPage:23] :: Entering the Submit button
+[m[96m[2025-08-10 17:25:23,144][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:25:23,196][main][INFO ][SeleniumWrapper:50] :: verifying the element is Displayed :
+[m[96m[2025-08-10 17:25:50,689][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-10 17:25:50,690][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-10 17:25:50,690][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:25:51,809][main][INFO ][SeleniumWrapper:38] :: Entering the text :tijigov754@nicex.com
+[m[96m[2025-08-10 17:25:51,883][main][INFO ][LoginPage:21] :: Entering the Password field
+[m[96m[2025-08-10 17:25:51,883][main][INFO ][SeleniumWrapper:38] :: Entering the text :Pass123
+[m[96m[2025-08-10 17:25:51,936][main][INFO ][LoginPage:23] :: Entering the Submit button
+[m[96m[2025-08-10 17:25:51,936][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:25:51,976][main][INFO ][SeleniumWrapper:50] :: verifying the element is Displayed :
+[m[96m[2025-08-10 17:26:19,427][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-10 17:26:19,437][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-10 17:26:19,438][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:26:20,204][main][INFO ][SeleniumWrapper:38] :: Entering the text :tijigov754@nicex.com
+[m[96m[2025-08-10 17:26:20,299][main][INFO ][LoginPage:21] :: Entering the Password field
+[m[96m[2025-08-10 17:26:20,299][main][INFO ][SeleniumWrapper:38] :: Entering the text :Pass123
+[m[96m[2025-08-10 17:26:20,358][main][INFO ][LoginPage:23] :: Entering the Submit button
+[m[96m[2025-08-10 17:26:20,358][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:26:20,414][main][INFO ][SeleniumWrapper:50] :: verifying the element is Displayed :
+[m[96m[2025-08-10 17:26:45,472][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-10 17:26:45,478][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-10 17:26:45,479][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:26:46,623][main][INFO ][SeleniumWrapper:38] :: Entering the text :tijigov754@nicex.com
+[m[96m[2025-08-10 17:26:46,670][main][INFO ][LoginPage:21] :: Entering the Password field
+[m[96m[2025-08-10 17:26:46,670][main][INFO ][SeleniumWrapper:38] :: Entering the text :Pass123
+[m[96m[2025-08-10 17:26:46,712][main][INFO ][LoginPage:23] :: Entering the Submit button
+[m[96m[2025-08-10 17:26:46,712][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:26:46,748][main][INFO ][SeleniumWrapper:50] :: verifying the element is Displayed :
+[m[96m[2025-08-10 17:27:14,293][main][INFO ][LoginTest:282] :: closing the browser session
+[m[96m[2025-08-10 17:28:47,564][main][INFO ][LoginTest:282] :: closing the browser session
+[m[96m[2025-08-10 17:31:14,312][main][INFO ][LoginTest:282] :: closing the browser session
+[m[96m[2025-08-10 17:35:32,777][main][INFO ][LoginTest:60] :: loading and setting the remote env json
+[m[96m[2025-08-10 17:35:32,820][main][INFO ][LoginTest:62] :: loading and setting the Test env json
+[m[96m[2025-08-10 17:35:32,851][main][INFO ][LoginTest:89] :: creating the Browser Instance
+[m[96m[2025-08-10 17:35:35,327][main][INFO ][LoginTest:61] :: creating the local Browser Instance
+[m[96m[2025-08-10 17:35:47,733][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-10 17:35:47,738][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-10 17:35:47,738][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:35:49,001][main][INFO ][SeleniumWrapper:38] :: Entering the text :tijigov754@nicex.com
+[m[96m[2025-08-10 17:35:49,174][main][INFO ][LoginPage:21] :: Entering the Password field
+[m[96m[2025-08-10 17:35:49,174][main][INFO ][SeleniumWrapper:38] :: Entering the text :Pass123
+[m[96m[2025-08-10 17:35:49,213][main][INFO ][LoginPage:23] :: Entering the Submit button
+[m[96m[2025-08-10 17:35:49,214][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:35:49,272][main][INFO ][SeleniumWrapper:50] :: verifying the element is Displayed :
+[m[96m[2025-08-10 17:36:19,888][main][INFO ][LoginTest:60] :: loading and setting the remote env json
+[m[96m[2025-08-10 17:36:19,907][main][INFO ][LoginTest:62] :: loading and setting the Test env json
+[m[96m[2025-08-10 17:36:19,917][main][INFO ][LoginTest:89] :: creating the Browser Instance
+[m[96m[2025-08-10 17:36:20,166][main][INFO ][LoginTest:61] :: creating the local Browser Instance
+[m[96m[2025-08-10 17:36:29,157][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-10 17:36:29,162][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-10 17:36:29,163][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:36:30,477][main][INFO ][SeleniumWrapper:38] :: Entering the text :tijigov754@nicext.com
+[m[96m[2025-08-10 17:36:30,615][main][INFO ][LoginPage:21] :: Entering the Password field
+[m[96m[2025-08-10 17:36:30,615][main][INFO ][SeleniumWrapper:38] :: Entering the text :Pass123
+[m[96m[2025-08-10 17:36:30,666][main][INFO ][LoginPage:23] :: Entering the Submit button
+[m[96m[2025-08-10 17:36:30,666][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:36:30,731][main][INFO ][SeleniumWrapper:50] :: verifying the element is Displayed :
+[m[96m[2025-08-10 17:36:31,843][main][INFO ][LoginTest:282] :: closing the browser session
+[m[96m[2025-08-10 17:56:58,741][main][INFO ][LoginTest:60] :: loading and setting the remote env json
+[m[96m[2025-08-10 17:56:58,764][main][INFO ][LoginTest:62] :: loading and setting the Test env json
+[m[96m[2025-08-10 17:56:58,779][main][INFO ][LoginTest:89] :: creating the Browser Instance
+[m[96m[2025-08-10 17:57:03,832][main][INFO ][LoginTest:61] :: creating the local Browser Instance
+[m[96m[2025-08-10 17:57:14,949][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-10 17:57:14,954][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-10 17:57:14,954][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:57:16,057][main][INFO ][SeleniumWrapper:38] :: Entering the text :tijigov754@nicext.com
+[m[96m[2025-08-10 17:57:16,202][main][INFO ][LoginPage:21] :: Entering the Password field
+[m[96m[2025-08-10 17:57:16,202][main][INFO ][SeleniumWrapper:38] :: Entering the text :Pass123
+[m[96m[2025-08-10 17:57:16,242][main][INFO ][LoginPage:23] :: Entering the Submit button
+[m[96m[2025-08-10 17:57:16,242][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:57:16,289][main][INFO ][SeleniumWrapper:50] :: verifying the element is Displayed :
+[m[96m[2025-08-10 17:57:17,240][main][INFO ][LoginTest:282] :: closing the browser session
+[m[96m[2025-08-10 17:58:35,227][main][INFO ][LoginTest:60] :: loading and setting the remote env json
+[m[96m[2025-08-10 17:58:35,249][main][INFO ][LoginTest:62] :: loading and setting the Test env json
+[m[96m[2025-08-10 17:58:35,260][main][INFO ][LoginTest:89] :: creating the Browser Instance
+[m[96m[2025-08-10 17:58:35,518][main][INFO ][LoginTest:61] :: creating the local Browser Instance
+[m[96m[2025-08-10 17:58:45,477][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-10 17:58:45,481][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-10 17:58:45,482][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:58:46,707][main][INFO ][SeleniumWrapper:38] :: Entering the text :tijigov754@nicext.com
+[m[96m[2025-08-10 17:58:46,881][main][INFO ][LoginPage:21] :: Entering the Password field
+[m[96m[2025-08-10 17:58:46,882][main][INFO ][SeleniumWrapper:38] :: Entering the text :Pass123
+[m[96m[2025-08-10 17:58:46,927][main][INFO ][LoginPage:23] :: Entering the Submit button
+[m[96m[2025-08-10 17:58:46,927][main][INFO ][SeleniumWrapper:30] :: Clicking the element
+[m[96m[2025-08-10 17:58:46,985][main][INFO ][SeleniumWrapper:50] :: verifying the element is Displayed :
+[m[96m[2025-08-10 17:58:48,271][main][INFO ][LoginTest:282] :: closing the browser session
+[m

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Configuration>
+    <Properties>
+        <Property name="LOG_PATTERN">%highlight{[%d][%t][%-5level][%c{1}:%L] :: %msg%n}{FATAL=bg_red bright_white,
+            ERROR=bright_red,
+            WARN=bright_yellow,
+            INFO=bright_cyan,
+            DEBUG=bright_green,
+            TRACE=bright_magenta}
+        </Property>
+    </Properties>
+    <Appenders>
+        <Console name="console" target="SYSTEM_OUT">
+            <PatternLayout>
+                <Pattern>${LOG_PATTERN}</Pattern>
+            </PatternLayout>
+        </Console>
+        <File name="file_logger" fileName="logs/automation.logs">
+            <PatternLayout>
+                <Pattern>${LOG_PATTERN}</Pattern>
+            </PatternLayout>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="console"></AppenderRef>
+            <AppenderRef ref="file_logger"></AppenderRef>
+        </Root>
+    </Loggers>
+</Configuration>
