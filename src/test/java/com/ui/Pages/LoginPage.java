@@ -5,6 +5,7 @@ import com.ui.Utilis.SeleniumWrapper;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 
 public final class LoginPage {
     Logger logger= LoggerUtility.getLogger(this.getClass());
@@ -13,6 +14,7 @@ public final class LoginPage {
     private static final By EMAIL_FIELD = By.id("email");
     private static final By PASSWORD_FIELD = By.id("passwd");
     private static final By submitButton = By.id("SubmitLogin");
+
 
 
 

@@ -183,4 +183,117 @@
 [m[96m[2025-08-10 17:58:46,927][main][INFO ][SeleniumWrapper:30] :: Clicking the element
 [m[96m[2025-08-10 17:58:46,985][main][INFO ][SeleniumWrapper:50] :: verifying the element is Displayed :
 [m[96m[2025-08-10 17:58:48,271][main][INFO ][LoginTest:282] :: closing the browser session
+[m[96m[2025-08-12 19:31:23,021][main][INFO ][LoginTest:77] :: loading and setting the remote env json
+[m[96m[2025-08-12 19:31:23,044][main][INFO ][LoginTest:79] :: loading and setting the Test env json
+[m[96m[2025-08-12 19:31:43,982][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-12 21:16:34,720][main][INFO ][LoginTest:74] :: loading and setting the remote env json
+[m[96m[2025-08-12 21:16:38,641][main][INFO ][LoginTest:76] :: loading and setting the Test env json
+[m[96m[2025-08-12 21:35:57,274][main][INFO ][LoginTest:74] :: loading and setting the remote env json
+[m[96m[2025-08-12 21:35:57,340][main][INFO ][LoginTest:76] :: loading and setting the Test env json
+[m[96m[2025-08-12 22:54:06,938][main][INFO ][LoginTest:78] :: loading and setting the remote env json
+[m[96m[2025-08-12 22:54:09,296][main][INFO ][LoginTest:80] :: loading and setting the Test env json
+[m[96m[2025-08-12 22:54:20,984][main][INFO ][LoginTest:112] :: creating the Browser Instance
+[m[96m[2025-08-12 22:55:44,883][main][INFO ][LoginTest:78] :: loading and setting the remote env json
+[m[96m[2025-08-12 22:55:47,161][main][INFO ][LoginTest:80] :: loading and setting the Test env json
+[m[96m[2025-08-12 22:55:52,756][main][INFO ][LoginTest:112] :: creating the Browser Instance
+[m[96m[2025-08-12 23:02:26,855][main][INFO ][LoginTest:78] :: loading and setting the remote env json
+[m[96m[2025-08-12 23:02:26,875][main][INFO ][LoginTest:80] :: loading and setting the Test env json
+[m[96m[2025-08-12 23:02:29,234][main][INFO ][LoginTest:112] :: creating the Browser Instance
+[m[96m[2025-08-12 23:07:05,014][main][INFO ][LoginTest:78] :: loading and setting the remote env json
+[m[96m[2025-08-12 23:07:05,032][main][INFO ][LoginTest:80] :: loading and setting the Test env json
+[m[96m[2025-08-12 23:07:07,361][main][INFO ][LoginTest:112] :: creating the Browser Instance
+[m[96m[2025-08-12 23:07:50,639][main][INFO ][LoginTest:78] :: loading and setting the remote env json
+[m[96m[2025-08-12 23:07:50,669][main][INFO ][LoginTest:80] :: loading and setting the Test env json
+[m[96m[2025-08-12 23:07:53,037][main][INFO ][LoginTest:112] :: creating the Browser Instance
+[m[96m[2025-08-12 23:12:59,187][main][INFO ][LoginTest:34] :: loading and setting the remote env json
+[m[96m[2025-08-12 23:12:59,204][main][INFO ][LoginTest:36] :: loading and setting the Test env json
+[m[96m[2025-08-12 23:13:01,561][main][INFO ][LoginTest:68] :: creating the Browser Instance
+[m[96m[2025-08-12 23:13:47,314][main][INFO ][LoginTest:34] :: loading and setting the remote env json
+[m[96m[2025-08-12 23:13:47,335][main][INFO ][LoginTest:36] :: loading and setting the Test env json
+[m[96m[2025-08-12 23:13:49,680][main][INFO ][LoginTest:68] :: creating the Browser Instance
+[m[96m[2025-08-12 23:15:01,756][main][INFO ][LoginTest:34] :: loading and setting the remote env json
+[m[96m[2025-08-12 23:15:01,776][main][INFO ][LoginTest:36] :: loading and setting the Test env json
+[m[96m[2025-08-12 23:15:04,113][main][INFO ][LoginTest:68] :: creating the Browser Instance
+[m[96m[2025-08-12 23:18:12,571][main][INFO ][LoginTest:34] :: loading and setting the remote env json
+[m[96m[2025-08-12 23:18:12,590][main][INFO ][LoginTest:36] :: loading and setting the Test env json
+[m[96m[2025-08-12 23:18:14,939][main][INFO ][LoginTest:68] :: creating the Browser Instance
+[m[96m[2025-08-12 23:18:14,993][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-12 23:18:14,998][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-12 23:18:14,998][main][INFO ][SeleniumWrapper:31] :: Clicking the element
+[m[96m[2025-08-12 23:19:14,866][main][INFO ][LoginTest:78] :: loading and setting the remote env json
+[m[96m[2025-08-12 23:19:14,885][main][INFO ][LoginTest:80] :: loading and setting the Test env json
+[m[96m[2025-08-12 23:19:16,911][main][INFO ][LoginTest:112] :: creating the Browser Instance
+[m[96m[2025-08-12 23:19:16,942][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-12 23:19:16,945][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-12 23:19:16,946][main][INFO ][SeleniumWrapper:31] :: Clicking the element
+[m[96m[2025-08-12 23:38:33,343][main][INFO ][LoginTest:80] :: loading and setting the remote env json
+[m[96m[2025-08-12 23:38:33,375][main][INFO ][LoginTest:82] :: loading and setting the Test env json
+[m[96m[2025-08-12 23:38:35,718][main][INFO ][LoginTest:115] :: creating the Browser Instance
+[m[96m[2025-08-12 23:40:52,061][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-12 23:40:52,100][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-12 23:40:52,100][main][INFO ][SeleniumWrapper:31] :: Clicking the element
+[m[96m[2025-08-12 23:41:12,181][main][INFO ][LoginTest:80] :: loading and setting the remote env json
+[m[96m[2025-08-12 23:41:12,226][main][INFO ][LoginTest:82] :: loading and setting the Test env json
+[m[96m[2025-08-12 23:41:14,938][main][INFO ][LoginTest:115] :: creating the Browser Instance
+[m[96m[2025-08-12 23:42:23,007][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-12 23:42:23,053][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-12 23:42:23,054][main][INFO ][SeleniumWrapper:31] :: Clicking the element
+[m[96m[2025-08-12 23:43:05,343][main][INFO ][LoginTest:80] :: loading and setting the remote env json
+[m[96m[2025-08-12 23:43:05,383][main][INFO ][LoginTest:82] :: loading and setting the Test env json
+[m[96m[2025-08-12 23:43:07,758][main][INFO ][LoginTest:115] :: creating the Browser Instance
+[m[96m[2025-08-12 23:44:28,238][main][INFO ][LoginTest:80] :: loading and setting the remote env json
+[m[96m[2025-08-12 23:44:28,272][main][INFO ][LoginTest:82] :: loading and setting the Test env json
+[m[96m[2025-08-12 23:44:30,637][main][INFO ][LoginTest:115] :: creating the Browser Instance
+[m[96m[2025-08-12 23:45:19,734][main][INFO ][LoginTest:62] :: creating the local Browser Instance
+[m[96m[2025-08-12 23:45:46,937][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-12 23:45:46,970][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-12 23:45:46,970][main][INFO ][SeleniumWrapper:31] :: Clicking the element
+[m[96m[2025-08-12 23:49:23,637][main][INFO ][LoginTest:80] :: loading and setting the remote env json
+[m[96m[2025-08-12 23:49:23,656][main][INFO ][LoginTest:82] :: loading and setting the Test env json
+[m[96m[2025-08-12 23:49:25,988][main][INFO ][LoginTest:115] :: creating the Browser Instance
+[m[96m[2025-08-12 23:49:26,294][main][INFO ][LoginTest:62] :: creating the local Browser Instance
+[m[96m[2025-08-12 23:49:32,495][main][INFO ][LoginTest:16] :: Test Execution Started
+[m[96m[2025-08-12 23:49:32,503][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-12 23:49:32,503][main][INFO ][SeleniumWrapper:31] :: Clicking the element
+[m[96m[2025-08-12 23:49:37,302][main][INFO ][SeleniumWrapper:39] :: Entering the text :tijigov754@nicext.com
+[m[96m[2025-08-12 23:49:38,489][main][INFO ][LoginPage:21] :: Entering the Password field
+[m[96m[2025-08-12 23:49:38,489][main][INFO ][SeleniumWrapper:39] :: Entering the text :Pass123
+[m[96m[2025-08-12 23:49:38,976][main][INFO ][LoginPage:23] :: Entering the Submit button
+[m[96m[2025-08-12 23:49:38,976][main][INFO ][SeleniumWrapper:31] :: Clicking the element
+[m[96m[2025-08-12 23:49:40,033][main][INFO ][SeleniumWrapper:52] :: verifying the element is Displayed :
+[m[96m[2025-08-13 00:20:29,696][main][INFO ][LoginTest:80] :: loading and setting the remote env json
+[m[96m[2025-08-13 16:41:01,130][main][INFO ][LoginTest:17] :: Test Execution Started
+[m[96m[2025-08-13 16:41:03,465][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-13 16:41:03,466][main][INFO ][SeleniumWrapper:31] :: Clicking the element
+[m[96m[2025-08-13 17:09:44,367][main][INFO ][LoginTest:17] :: Test Execution Started
+[m[96m[2025-08-13 17:09:44,456][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-13 17:09:44,456][main][INFO ][SeleniumWrapper:31] :: Clicking the element
+[m[96m[2025-08-13 17:10:41,810][main][INFO ][LoginTest:84] :: loading and setting the remote env json
+[m[96m[2025-08-13 17:10:45,259][main][INFO ][LoginTest:86] :: loading and setting the Test env json
+[m[96m[2025-08-13 17:10:59,998][main][INFO ][LoginTest:119] :: creating the Browser Instance
+[m[96m[2025-08-13 17:15:43,028][main][INFO ][LoginTest:84] :: loading and setting the remote env json
+[m[96m[2025-08-13 17:15:43,049][main][INFO ][LoginTest:86] :: loading and setting the Test env json
+[m[96m[2025-08-13 17:15:45,401][main][INFO ][LoginTest:119] :: creating the Browser Instance
+[m[96m[2025-08-13 17:16:13,978][main][INFO ][LoginTest:17] :: Test Execution Started
+[m[96m[2025-08-13 17:16:13,996][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-13 17:16:13,997][main][INFO ][SeleniumWrapper:31] :: Clicking the element
+[m[96m[2025-08-20 06:19:20,686][main][INFO ][LoginTest:84] :: loading and setting the remote env json
+[m[96m[2025-08-20 06:19:20,712][main][INFO ][LoginTest:86] :: loading and setting the Test env json
+[m[96m[2025-08-20 06:19:23,761][main][INFO ][LoginTest:119] :: creating the Browser Instance
+[m[96m[2025-08-20 06:20:55,363][main][INFO ][LoginTest:84] :: loading and setting the remote env json
+[m[96m[2025-08-20 06:20:55,402][main][INFO ][LoginTest:86] :: loading and setting the Test env json
+[m[96m[2025-08-20 06:21:00,746][main][INFO ][LoginTest:119] :: creating the Browser Instance
+[m[96m[2025-08-20 06:22:27,341][main][INFO ][LoginTest:84] :: loading and setting the remote env json
+[m[96m[2025-08-20 06:22:27,391][main][INFO ][LoginTest:86] :: loading and setting the Test env json
+[m[96m[2025-08-20 06:22:31,717][main][INFO ][LoginTest:119] :: creating the Browser Instance
+[m[96m[2025-08-20 06:23:54,036][main][INFO ][LoginTest:85] :: loading and setting the remote env json
+[m[96m[2025-08-20 06:24:14,561][main][INFO ][LoginTest:87] :: loading and setting the Test env json
+[m[96m[2025-08-20 06:24:22,132][main][INFO ][LoginTest:120] :: creating the Browser Instance
+[m[96m[2025-08-20 06:26:26,583][main][INFO ][LoginTest:85] :: loading and setting the remote env json
+[m[96m[2025-08-20 06:26:26,646][main][INFO ][LoginTest:87] :: loading and setting the Test env json
+[m[96m[2025-08-20 06:26:31,980][main][INFO ][LoginTest:120] :: creating the Browser Instance
+[m[96m[2025-08-20 06:26:55,500][main][INFO ][LoginTest:62] :: creating the local Browser Instance
+[m[96m[2025-08-20 06:27:20,200][main][INFO ][LoginTest:17] :: Test Execution Started
+[m[96m[2025-08-20 06:27:20,221][main][INFO ][HomePage:15] :: Navigating to Login Page
+[m[96m[2025-08-20 06:27:20,222][main][INFO ][SeleniumWrapper:31] :: Clicking the element
 [m

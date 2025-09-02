@@ -28,6 +28,7 @@ public class SeleniumWrapper extends Controller {
 
     public void click(By locator) {
         try {
+
             logger.info("Clicking the element");
             wait.until(ExpectedConditions.elementToBeClickable(locator)).click();
         } catch (NoSuchElementException e) {

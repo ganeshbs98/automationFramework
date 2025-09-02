@@ -1,7 +1,6 @@
 package com.ui.test;
 
 import com.ui.Utilis.TestBase;
-import com.ui.Utilis.sampleClass;
 import org.openqa.selenium.By;
 import org.testng.annotations.Test;
 

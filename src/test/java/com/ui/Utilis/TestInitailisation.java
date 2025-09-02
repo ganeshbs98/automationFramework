@@ -5,12 +5,15 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.ui.PojoClasses.ExtentPojo;
+import com.ui.PojoClasses.RemoteEnvPojo;
+import com.ui.PojoClasses.TestEnvPojo;
 import org.testng.ITestContext;
 import org.testng.xml.XmlTest;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.lang.reflect.Array;
 import java.lang.reflect.Method;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
@@ -19,11 +22,15 @@ import java.time.format.TextStyle;
 import java.util.Calendar;
 import java.util.Locale;
 
-public class TestInitailisation extends Browser {
+public class TestInitailisation extends TestBase {
 
     public void reportInitailsation(ITestContext context) {
-        String suiteNameReplaced = context.getSuite().getName().replace("_", "|").replaceAll(" ", "").trim();
+        String suiteNameReplaced = context.getSuite().getName().replaceAll(" ", "").trim();
         String[] tType = suiteNameReplaced.split("\\|");
+        if(platformType==null){
+            platformType=tType[1];
+        }
+        RemoteEnvPojo tRemoteEnv=JsonUtility.readJson("tenv/remote-env.json", RemoteEnvPojo.class);
         String suiteNameWithTime = context.getSuite().getName();
         LocalDate currentDate = LocalDate.now();
         String Year = String.valueOf(currentDate.getYear());
@@ -32,7 +39,6 @@ public class TestInitailisation extends Browser {
         String datePath = creatFolder("src/test/resources", "TestResults", Year);
         String MonthPath = creatFolder(datePath, month, currentDay);
         String finalReportPath = creatFolder(MonthPath, suiteNameWithTime, "");
-        initializeExtentReport(finalReportPath, suiteNameWithTime);
 
 
     }
@@ -44,6 +50,7 @@ public class TestInitailisation extends Browser {
         extent.attachReporter(sparkFail, sparkAll);
 
     }
+
 
     public void createExtentClassName(XmlTest xmlTest) {
         if (extent != null) {

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<suite name="Automation_Practice_Test_suite" >
+<suite name="Foodhub|Web|PROD|POM|Regression" >
 
     <listeners>
         <listener class-name="com.ui.listeners.TestListeners"/>
     </listeners>
-<!--    <parameter name="url" value="https://foodhub.co.uk"/>-->
+    <parameter name="url" value="https://foodhub.co.uk"/>
     <test name="Regression_12">
         <classes>
             <class name="com.ui.test.LoginTest"/>
