@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+tenv/test_env.json
+tenv/remote-env.json
+src/test/resources/configuration
